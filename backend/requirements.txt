@@ -7,4 +7,5 @@ pandas
 python-multipart
 google-cloud-translate
 google-cloud-secret-manager
+Pillow
 pytest
