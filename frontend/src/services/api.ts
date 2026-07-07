@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://suraksha-backend-954467952432.asia-south1.run.app';
 
 export const HealthAPI = {
   // Upload CSV/Excel Data

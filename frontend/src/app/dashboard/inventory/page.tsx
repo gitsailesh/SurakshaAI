@@ -14,7 +14,7 @@ export default function InventoryPage() {
     const { setAnalysis, setPhcs, setInventory, inventory, analysis, isDataLoaded } = usePHCStore();
 
     // API URL from env or default
-    const API_BASE = `${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/v1/inventory`;
+    const API_BASE = `${process.env.NEXT_PUBLIC_API_URL || 'https://suraksha-backend-954467952432.asia-south1.run.app'}/api/v1/inventory`;
 
     // --- LOGIC 1: STRATEGIC CSV UPLOAD ---
     const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
