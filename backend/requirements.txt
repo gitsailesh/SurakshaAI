@@ -5,4 +5,6 @@ pydantic-settings
 firebase-admin
 pandas
 python-multipart
+google-cloud-translate
+google-cloud-secret-manager
 pytest
