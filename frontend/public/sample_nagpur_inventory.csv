@@ -1,0 +1,9 @@
+phc_name,medicine,current_stoc,min_threshol,last_updated
+PHC Kalmeshwar,Insulin,15,100,20/05/26
+PHC Hingna,Insulin,450,100,20/05/26
+PHC Kamptee,Paracetamol,50,500,20/05/26
+PHC Ramtek,Paracetamol,1200,500,20/05/26
+PHC Kalmeshwar,Oxygen,90,100,20/05/26
+PHC Hingna,Oxygen,95,100,20/05/26
+PHC Kamptee,Oxygen,80,100,20/05/26
+PHC Ramtek,Oxygen,96,100,20/05/26
